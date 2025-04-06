@@ -1,0 +1,2 @@
+# Techstar
+Pragati AI project
