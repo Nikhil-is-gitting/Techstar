@@ -36,9 +36,5 @@ Pragati AI project
 
 ---
 
-## 🏃‍♂️ Getting Started
 
-1. **Clone the Repo**:
-   ```bash
-   git clone <your-repo-url>
-   cd farmconnect
+
